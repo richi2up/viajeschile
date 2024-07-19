@@ -4,6 +4,38 @@ body{
         font-optical-sizing: auto;
         /* font-weight: <weight>; */
         /* font-style: normal; */
-        background-color:#373A3C;
-        text-shadow: #217cb8;
+        /* background-color:#373A3C; */
+        color: #ffffff;
+        background-color: #000000;
 }
+
+.logo-viaje {
+    width: 5%;
+}
+
+
+
+.underline {
+    display: inline-block;
+    position: relative;
+  }
+
+.underline:after {
+    content: '';
+    display: block;
+    width: 100%;
+    height: 2px;
+    background-color: black;
+    position: absolute;
+    bottom: -5px;
+    left: 0;
+    
+  }
+
+  /* color en body h3{ 
+    color: #ffffff;
+  }*/
+
+  .bg-primary{
+color: #ffffff;
+  }
