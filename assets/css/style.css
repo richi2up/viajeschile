@@ -49,12 +49,13 @@ color: #ffffff;
 }
 
 .icon-block i {
-    font-size: 30px; /* Ajusta el tamaño del ícono */
+    font-size: 30px; 
     color: white;
-    background-color: #15b2c7; /* Fondo negro */
-     /* Forma circular */
- /* Espacio alrededor del ícono */
-    /* Espacio entre el ícono y el texto */
+    background-color: #15b2c7; 
+ 
     display: flex;
 }
 
+.bg-footer {
+  background-color:  #15b2c7; 
+}
